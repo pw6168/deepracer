@@ -9,7 +9,6 @@ import os
 import glob
 import re
 import subprocess
-from IPython.display import Markdown
 from time import gmtime, strftime
 
 sys.path.append("common")
